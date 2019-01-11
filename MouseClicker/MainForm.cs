@@ -20,6 +20,7 @@ namespace MouseClicker
 
         public MainForm()
         {
+            //加个注释测试一下啦
             InitializeComponent();
             this.button_choose_location.Click += Button_choose_location_Click;
             this.button_choose_location.BackColor = Color.Green;
